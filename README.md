@@ -1,6 +1,6 @@
-# Ground Games Strategy — Website
+# Ground Game Strategy — Website
 
-Brand and marketing website for **Ground Games Strategy**, a consulting and
+Brand and marketing website for **Ground Game Strategy**, a consulting and
 capability-building firm built on the **Strategic Impact Realization Framework (SIRF)**.
 
 ## What's here
@@ -33,11 +33,11 @@ No build step, no dependencies. Open `index.html` in any browser to view it.
 ## Before going live
 
 - Replace placeholder contact emails in `contact.html`
-  (`hello@groundgamesstrategy.com`, `adam@groundgamesstrategy.com`).
+  (`hello@groundgamestrategy.com`, `adam@groundgamestrategy.com`).
 - The contact form is a front-end stub — wire it to an email service or CRM
   (e.g. Formspree, HubSpot) to receive submissions.
 - Brand colors are CSS variables at the top of `styles.css`.
 
 ---
 
-© 2026 Ground Games Strategy. SIRF is proprietary methodology.
+© 2026 Ground Game Strategy. SIRF is proprietary methodology.
